@@ -1,6 +1,0 @@
-[submodule "Day02/getting-started-app"]
-	path = Day02/getting-started-app
-	url = https://github.com/docker/getting-started-app.git
-[submodule "Day03/todoapp-docker"]
-	path = Day03/todoapp-docker
-	url = https://github.com/piyushsachdeva/todoapp-docker.git
